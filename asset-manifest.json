@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploy-registerkaro/static/css/main.f1b3818a.css",
+    "main.js": "/deploy-registerkaro/static/js/main.63edbf35.js",
+    "static/js/453.d82dfaca.chunk.js": "/deploy-registerkaro/static/js/453.d82dfaca.chunk.js",
+    "index.html": "/deploy-registerkaro/index.html",
+    "main.f1b3818a.css.map": "/deploy-registerkaro/static/css/main.f1b3818a.css.map",
+    "main.63edbf35.js.map": "/deploy-registerkaro/static/js/main.63edbf35.js.map",
+    "453.d82dfaca.chunk.js.map": "/deploy-registerkaro/static/js/453.d82dfaca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b3818a.css",
+    "static/js/main.63edbf35.js"
+  ]
+}
